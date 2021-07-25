@@ -28,3 +28,4 @@ echo User: Administrator
 echo Password: Thuonghai001
 echo Wait 2-4m VM boot up before connect. 
 echo Do not close the tab. VM expired in 1 hour.
+echo Go and Follow on GitHub --> https://github.com/proavipatil
