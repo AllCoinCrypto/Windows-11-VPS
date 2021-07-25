@@ -38,3 +38,15 @@ chmod +x RDP.sh
 
 - *open remote desktop client on windows type the ip and use the credentials provided*
 
+
+### WARN
+```
+THIS IS ONLY FOR EDUCATIONAL PURPOSES
+
+DON'T USE FOR MINING OR ILLEGAL USE
+
+DON'T RECODE THIS SC!
+```
+---
+
+#### Main Repository : https://github.com/proavipatil/Windows-11-VPS
