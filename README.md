@@ -8,7 +8,7 @@
 ### Using Medthod
 
 
-- *Open This : https://www.katacoda.com/openshift/courses/subsystems/container-internals-lab-2-0-part-1*
+- *Open This : https://katacoda.com/katacodavm2711*
 - *Click on start scenario*
 - *type in the command as Given Below*
 
